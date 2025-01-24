@@ -1,4 +1,4 @@
-# Estrutura Sequencial
+# Estrutura Funcional
 
 ## Inicial (somente operações aritméticas, input e output)
 
